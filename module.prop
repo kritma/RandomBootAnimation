@@ -1,0 +1,6 @@
+id=RandomBootAnimation
+name=Random Boot Animation
+version=0.1.0
+versionCode=1
+author=kritma
+description=Selects random boot animation from /data/local/bootanimations/*.zip and installs it systemlessly.
